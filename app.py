@@ -1,2 +1,2 @@
-print "hello to Dev env"
+print "hello to UAT env"
 
